@@ -1,0 +1,23 @@
+# rspecs 
+Finished in 0.14468 seconds (files took 1.59 seconds to load)
+9 examples, 0 failures
+
+Coverage report generated for RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 52 / 61 LOC (85.25%) covered.
+
+#cucumber 1 
+7 scenarios (7 passed)
+39 steps (39 passed)
+0m0.601s
+Coverage report generated for Cucumber Features to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 47 / 61 LOC (77.05%) covered.
+
+#cucumber 2
+7 scenarios (7 passed)
+39 steps (39 passed)
+0m0.586s
+Coverage report generated for Cucumber Features to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 47 / 61 LOC (77.05%) covered.
+
+#cucumber 3
+7 scenarios (7 passed)
+39 steps (39 passed)
+0m0.549s
+Coverage report generated for Cucumber Features to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 47 / 61 LOC (77.05%) covered.
